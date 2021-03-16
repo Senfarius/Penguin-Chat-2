@@ -1,5 +1,3 @@
-Hello, I will be showing you how to make your own Penguin Chat 2 server. 
- 
 Things you will need:
  
 Notepad++ or some kind of text editor.
